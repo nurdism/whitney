@@ -1,144 +1,29 @@
-@font-face {
-	font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+@font-face{
+    font-family:Whitney;
+    font-weight:300;
+    src:url(//nurdism.github.io/whitney/whitney-300.woff) format("woff")
 }
 
-@font-face {
-    font-family: 'Whitney';
-    src: url('//raw.github.com/nurdism/whitney/master/whitney-semibolditalic.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-semibolditalic.woff') format('woff');
-    font-weight: 500;
-    font-style: italic;
+@font-face{
+    font-family:Whitney;
+    font-weight:400;
+    src:url(//nurdism.github.io/whitney/whitney-400.woff) format("woff")
 }
 
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-bolditalicsc.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-bolditalicsc.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
+@font-face{
+    font-family:Whitney;
+    font-weight:500;
+    src:url(//nurdism.github.io/whitney/whitney-500.woff) format("woff")
 }
 
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-lightitalic.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-lightitalic.woff') format('woff');
-    font-weight: 300;
-    font-style: italic;
+@font-face{
+    font-family:Whitney;
+    font-weight:600;
+    src:url(//nurdism.github.io/whitney/whitney-600.woff) format("woff")
 }
 
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-mediumitalicsc.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-mediumitalicsc.woff') format('woff');
-    font-weight: 500;
-    font-style: italic;
+@font-face{
+    font-family:Whitney;
+    font-weight:700;
+    src:url(//nurdism.github.io/whitney/whitney-700.woff) format("woff")
 }
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-semibold.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-semibold.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-booksc.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-booksc.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-book.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-book.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-semibolditalicsc.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-semibolditalicsc.woff') format('woff');
-    font-weight: 500;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-blacksc.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-blacksc.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-mediumsc.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-mediumsc.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-mediumitalic.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-mediumitalic.woff') format('woff');
-    font-weight: 500;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-light.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-bold.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-lightsc.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-lightsc.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-medium.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-bookitalic.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-bookitalic.woff') format('woff');
-    font-weight: 500;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Whitney';
-    src: url('//nurdism.github.io/whitney/whitney-boldsc.woff2') format('woff2'),
-        url('//nurdism.github.io/whitney/whitney-boldsc.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-}
-
